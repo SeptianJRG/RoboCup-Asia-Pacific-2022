@@ -1,0 +1,19 @@
+deposit bawah
+x= 55
+y= 65
+
+rgb deposit
+L= 255, 160, 1
+R= 255, 161, 1
+
+deposit atas
+x= 300
+y= 114
+
+rgb deposit
+L= 255, 160, 1
+R= 255, 161, 1
+
+rgb superobject
+L= 255, 4, 244
+R= 255, 4, 244

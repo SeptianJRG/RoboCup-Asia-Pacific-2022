@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InstallInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Cat_Folder>RSC</Cat_Folder>
+  <App_Dir>RSC-2022</App_Dir>
+  <CSRS_Dir />
+  <Decription>CSR Rescue 2022</Decription>
+  <StartMenuDirectory>CoSpaceRobot Studio</StartMenuDirectory>
+  <InstallLinkName>\CSR Rescue 2022.lnk</InstallLinkName>
+  <IconFile>\RSC\Sys\CS_RSC.ico</IconFile>
+  <bMap>true</bMap>
+  <LanguageID>None</LanguageID>
+</InstallInfo>
